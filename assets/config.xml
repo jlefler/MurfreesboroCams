@@ -1,0 +1,34 @@
+<cameras>
+   <camera name="Broad &amp; Mercury" url="http://traf1.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="Broad &amp; Church" url="http://traf1.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="Broad &amp; Main" url="http://traf1.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="Broad &amp; West College" url="http://traf1.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+	<camera name="I-24 &amp; Old Fort" url="http://traf2.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="Old Fort &amp; Thompson" url="http://traf2.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="Old Fort &amp; Bridge" url="http://traf2.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="Old Fort &amp; Kings Hwy" url="http://traf2.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+	<camera name="NW Broad &amp; Monte Hale" url="http://traf3.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="NW Broad &amp; Thompson" url="http://traf3.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="Memorial &amp; MCP" url="http://traf3.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="Memorial &amp; Clark" url="http://traf3.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+	<camera name="Memorial &amp; Northfield" url="http://traf4.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="Church &amp; CSX RR" url="http://traf4.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="Church &amp; MTB" url="http://traf4.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="Church &amp; I-24" url="http://traf4.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+	<camera name="Church &amp; Warrior" url="http://traf5.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="Church &amp; Calumet" url="http://traf5.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="Church &amp; Barfield" url="http://traf5.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="MTB &amp; Broad" url="http://traf5.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+	<camera name="MTB &amp; Mercury" url="http://traf6.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="Old Fort &amp; Cason" url="http://traf6.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="Old Fort &amp; Gresham" url="http://traf6.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="Old Fort &amp; Blaze" url="http://traf6.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+	<camera name="Old Fort &amp; Fortress" url="http://traf7.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="Old Fort &amp; Veterans" url="http://traf7.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="Memorial &amp; Airport" url="http://traf7.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="Memorial &amp; DeJarnette" url="http://traf7.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+	<camera name="Memorial &amp; Thompson" url="http://traf8.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=1"/>
+	<camera name="MCP &amp; Robert Rose" url="http://traf8.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=2"/>
+	<camera name="MCP &amp; Greshampark" url="http://traf8.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=3"/>
+	<camera name="MCP &amp; I-24" url="http://traf8.murfreesborotn.gov/axis-cgi/mjpg/video.cgi?resolution=352x240&amp;duration=60&amp;camera=4"/>
+</cameras>
